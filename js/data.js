@@ -55,6 +55,4 @@ const createPhotoDescription = () => ({
 
 const arrayPhotos = Array.from({length: OBJECT_COUNT}, createPhotoDescription);
 
-// eslint-disable-next-line no-console
-
 export {arrayPhotos};

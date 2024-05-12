@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-use-before-define */
 import { isEscapeKey } from './util.js';
 import { arrayPhotos } from './data.js';
 
