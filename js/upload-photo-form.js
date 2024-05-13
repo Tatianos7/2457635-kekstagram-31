@@ -1,5 +1,4 @@
 /* eslint-disable no-use-before-define */
-
 import { isEscapeKey } from './util.js';
 
 const uploadForm = document.querySelector('.img-upload__form');

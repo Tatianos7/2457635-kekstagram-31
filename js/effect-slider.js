@@ -1,3 +1,4 @@
+/* eslint-disable no-shadow */
 /* eslint-disable no-use-before-define */
 const uploadForm = document.querySelector('.img-upload__form');
 const effectList = uploadForm.querySelector('.effects__list');
